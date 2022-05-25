@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+my name is alamin.im a frontend focused mern stack developer.currently working with mern stack and focusing on frontend technologies.i specialize in reactjs,css and css utility libraries. also comfortble working with node js mongodb express js and backend technologies.i've been learning Mern stack technologies for about a year. throughout my learning i've developed 3 Mern stack project.take a look at my portfolio here.    
 <!--
 **un-earthly/un-earthly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
