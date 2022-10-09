@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD.Alamin</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-- 🌱 I’m currently learning **c**
+- 🌱 I’m currently learning **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
