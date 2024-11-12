@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD.Alamin</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A Technocrat</h3>
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently Working as a **Project Manager At MASLEAP PLC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
